@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/infographics-bootstrap-auth-modal/precache-manifest.53a8ad6be3a7675cc0dbae4c3e396675.js"
+  "/infographics-bootstrap-auth-modal/precache-manifest.cd4e5c18923b9b4154e61d2c3c6fd9aa.js"
 );
 
 workbox.clientsClaim();
