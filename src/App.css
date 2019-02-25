@@ -42,3 +42,11 @@
 .form-control {
   border-radius: 0px !important;
 }
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
