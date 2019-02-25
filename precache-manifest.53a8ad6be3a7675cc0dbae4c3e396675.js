@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/infographics-bootstrap-auth-modal/static/css/main.609780d5.chunk.css"
   },
   {
-    "revision": "b3a1385bec37e2a1e333bf7a38440f13",
+    "revision": "cc845e53934c4b576aa8d8ade2cec85a",
     "url": "/infographics-bootstrap-auth-modal/index.html"
   }
 ];
